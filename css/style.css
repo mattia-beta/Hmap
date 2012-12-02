@@ -1,0 +1,155 @@
+body
+{
+	font-family: 'Raleway', sans-serif;
+}
+
+#menu
+{
+	margin-top: 25px;
+}
+
+#menu a
+{
+	color: gray;
+	font-family: 'Cabin', sans-serif;
+}
+
+#menu a:hover
+{
+	color: red;
+	text-decoration: none;
+}
+
+#menu ul
+{
+	white-space:nowrap;
+	list-style-type:none;
+	padding-top: 40px;
+}
+
+#menu li
+{
+	display: inline;
+	padding-right: 25px;
+	color: gray;
+	font-size: 15pt;
+}
+
+#menu select
+{	
+	width: 55px;
+}
+
+.aitch
+{
+	color: red;
+	font-size: 50pt;
+}
+
+.logo
+{
+	font-size: 30pt;
+}
+
+#main
+{
+	margin-top: 40px;
+	margin-bottom: 60px;
+}
+
+#search
+{
+	padding-left: 50px;
+	padding-top: 30px;
+	color: gray;
+}
+
+#maps img
+{
+	max-width: none;
+}
+
+#maps
+{
+}
+
+#demoMap
+{
+	height:370px;
+	border-color: #dedede;
+	border-style: solid;
+	border-width: 1px;
+	
+	-moz-box-shadow: 0 0 5px 5px #888;
+	-webkit-box-shadow: 0 0 5px 5px#888;
+	box-shadow: 0 0 5px 5px #888;
+}
+
+#presentation
+{
+	padding-left:  20px;
+}
+
+#pres-text
+{
+	color: gray;
+	font-size: 13pt;
+	line-height: 36px;
+	text-align:justify;
+}
+
+#presentation img
+{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+#presentation a
+{
+	margin-top: 20px;
+}
+
+.title
+{
+	font-size: 25pt;
+	color: #333;
+	font-family: 'Cabin', sans-serif;
+}
+
+#search-form
+{
+	margin-top: 25px;
+}
+
+.active-m
+{
+	color: red;
+}
+
+.sx
+{
+	float: left;
+	padding-left: 30px;
+	padding-top: 20px;
+	padding-right: 30px;
+}
+
+#modal-item td
+{
+	padding-right: 15px;
+}
+
+#modal-item tr
+{
+	padding-bottom: 10px;
+}
+
+.details-tb
+{
+	font-weight: bold;
+}
+
+.testo-home
+{
+	line-height: 32px;
+}
